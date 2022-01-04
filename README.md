@@ -1,2 +1,1 @@
-# rsschool-cv
-cv in markdown style
+https://kestitus.github.io/rsschool-cv/
